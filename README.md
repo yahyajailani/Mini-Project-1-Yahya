@@ -8,3 +8,9 @@ YAHYA JAILANI I 2509116085 I SISTEM INFORMASI C
 <img width="1006" height="231" alt="data 3" src="https://github.com/user-attachments/assets/a75385b6-119c-4207-b1cf-995e51cf3043" />
 <img width="1017" height="174" alt="eror" src="https://github.com/user-attachments/assets/823fc91b-f3eb-4a0d-9038-be56bdf2b747" />
 <img width="1004" height="294" alt="eror 2" src="https://github.com/user-attachments/assets/ec71b409-fa49-4c41-818d-b2cbfadc8360" />
+Pada Tema Ini saya mendapat 4 bagian dari CRUD Yaitu (Create, Read, Update, dan Delete)
+pada Create saya Memasukan Produk Yang di Jual 
+pada Read saya menampilkan produk yang akan dijual
+pada update saya menambahkan promo berdasarkan kapan promo itu berlaku
+dan pada delete, promo otomatis terhapus apa bila ada yang membeli produk tersebut 
+pada output saya, saya memasukan promo special telah habis karna telah mencapai batas pembeliannya 
