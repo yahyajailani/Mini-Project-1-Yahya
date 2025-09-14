@@ -4,10 +4,10 @@ YAHYA JAILANI I 2509116085 I SISTEM INFORMASI C
 <img width="1024" height="182" alt="OutPut" src="https://github.com/user-attachments/assets/3f7f6a5a-7c97-4af8-a16e-b022ddf2cf29" />
 Pada Tema Ini saya mendapat 4 bagian dari CRUD Yaitu (Create, Read, Update, dan Delete).
 
-1.pada Create saya Memasukan Produk Yang di Jual 
-2.pada Read saya menampilkan produk yang akan dijual
-3.pada update saya menambahkan promo berdasarkan kapan promo itu berlaku
-4.pada delete, promo otomatis terhapus apa bila ada yang membeli produk tersebut 
+1. pada Create saya Memasukan Produk Yang di Jual 
+2. pada Read saya menampilkan produk yang akan dijual
+3. pada update saya menambahkan promo berdasarkan kapan promo itu berlaku
+4. pada delete, promo otomatis terhapus apa bila ada yang membeli produk tersebut 
 
 pada output saya, saya memasukan promo special telah habis karna telah mencapai batas pembeliannya.
 Jadi, Disini saya memiliki 3 menu pilihan yaitu:
