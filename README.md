@@ -17,7 +17,7 @@ Jadi, Disini saya memiliki 3 menu pilihan yaitu:
 3. pilihan ketiga adalah hasil dari update yaitu promo special dan berlaku hanya pada beberapa produk dan saat adanya penjualan produk apabila tekah mencapai limit dari penjualan produk tersebut maka promo tersebut akan otomatis hilang atau terhapus yang termasuk bagian dari crud itu sendiri yakni Delete
 
 # Flowchart
-![WhatsApp Image 2025-09-14 at 10 38 22](https://github.com/user-attachments/assets/2f4a7470-11ca-4b9c-988b-e804da87d555)
+![WhatsApp Image 2025-09-14 at 15 41 47 (1)](https://github.com/user-attachments/assets/53d1b240-d754-46cf-a738-6bf2aca9bb47)
 Flowchart ini adalah proses memanajemen produk yang akan dijual pada konsumen atau customer
 
 # Vs Code
