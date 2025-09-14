@@ -3,15 +3,19 @@ YAHYA JAILANI I 2509116085 I SISTEM INFORMASI C
 # OUTPUT
 <img width="1024" height="182" alt="OutPut" src="https://github.com/user-attachments/assets/3f7f6a5a-7c97-4af8-a16e-b022ddf2cf29" />
 Pada Tema Ini saya mendapat 4 bagian dari CRUD Yaitu (Create, Read, Update, dan Delete).
+
 1.pada Create saya Memasukan Produk Yang di Jual 
 2.pada Read saya menampilkan produk yang akan dijual
 3.pada update saya menambahkan promo berdasarkan kapan promo itu berlaku
 4.pada delete, promo otomatis terhapus apa bila ada yang membeli produk tersebut 
+
 pada output saya, saya memasukan promo special telah habis karna telah mencapai batas pembeliannya.
-Jadi, Disini saya memiliki 3 menu pilihan yaitu
+Jadi, Disini saya memiliki 3 menu pilihan yaitu:
+
 1. pilihan pertama adalah create karna fungsi ini untuk Memasukan data produk seperti harga jual produk,gambar produk, dan promo produk 
 2. pilihan kedua adalah fungsi dari read yaitu untuk melihat katalog produk apa saja yang sedang tersedia saat ini
 3. pilihan ketiga adalah hasil dari update yaitu promo special dan berlaku hanya pada beberapa produk dan saat adanya penjualan produk apabila tekah mencapai limit dari penjualan produk tersebut maka promo tersebut akan otomatis hilang atau terhapus yang termasuk bagian dari crud itu sendiri yakni Delete
+
 # Flowchart
 ![WhatsApp Image 2025-09-14 at 10 38 22](https://github.com/user-attachments/assets/2f4a7470-11ca-4b9c-988b-e804da87d555)
 Flowchart ini adalah proses memanajemen produk yang akan dijual pada konsumen atau customer
